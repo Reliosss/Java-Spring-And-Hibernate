@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface Coach {
+
+    public String getDailyWorkout();
+
 }

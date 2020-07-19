@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class BaseballCoach implements Coach{
 
-public class BaseballCoach {
+    @Override
+    public String getDailyWorkout(){
+        return "Spend 30 minutes on daily thinking about strategy!";
+    }
 }
