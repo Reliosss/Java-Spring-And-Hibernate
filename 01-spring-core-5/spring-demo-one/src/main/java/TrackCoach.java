@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class TrackCoach implements Coach {
 
-public class TrackCoach {
+    @Override
+    public String getDailyWorkout(){
+        return "Run a hard 5 miles!";
+    }
 }
