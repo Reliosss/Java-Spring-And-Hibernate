@@ -15,4 +15,14 @@ public class BaseballCoach implements Coach {
     public String getDailyFortune() {
         return fortuneService.getFortune();
     }
+
+    // init method
+    public void initMethod(){
+        System.out.println("BaseballCoach --> init method");
+    }
+
+    // destroy method
+    public void destroyMethod(){
+        System.out.println("BaseballCoach --> destroy method");
+    }
 }

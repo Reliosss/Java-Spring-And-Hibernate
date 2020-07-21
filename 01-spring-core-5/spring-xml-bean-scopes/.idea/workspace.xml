@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a6590cc-d987-4db2-8daf-79b29b29851b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-bean-scopes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BadFortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FortuneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BadFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BaseballCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1f0eo0LXPQLjEQjIZC0ZY2YeEId" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-xml-bean-scopes-lifecycle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Java-Spring-And-Hibernate\01-spring-core-5\spring-xml-bean-scopes\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Java-Spring-And-Hibernate\01-spring-core-5\spring-xml-bean-scopes\src\main\resources" />
+      <recent name="E:\Projects\Java-Spring-And-Hibernate\01-spring-core-5\spring-xml-bean-scopes\src\main" />
+      <recent name="E:\Projects\Java-Spring-And-Hibernate\01-spring-core-5\spring-xml-bean-scopes\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BeanScope">
+    <configuration name="BeanScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeanScope" />
+      <module name="spring-xml-bean-scopes-lifecycle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="spring-xml-bean-scopes-lifecycle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-xml-bean-scopes-lifecycle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-xml-bean-scopes-lifecycle" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanScope" />
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a6590cc-d987-4db2-8daf-79b29b29851b" name="Default Changelist" comment="" />
+      <created>1595359608311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595359608311</updated>
+      <workItem from="1595359611387" duration="759000" />
+      <workItem from="1595360498597" duration="1411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1400" y="98" key="#Project_Structure" timestamp="1595359709582">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1400" y="98" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1595359709582" />
+    <state x="353" y="284" key="FileChooserDialogImpl" timestamp="1595363019511">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="353" y="284" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1595363019511" />
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom" timestamp="1595363021061">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1595363021061" />
+    <state width="1234" height="278" key="GridCell.Tab.0.center" timestamp="1595363021061">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1595363021061" />
+    <state width="1234" height="278" key="GridCell.Tab.0.left" timestamp="1595363021060">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1595363021060" />
+    <state width="1234" height="278" key="GridCell.Tab.0.right" timestamp="1595363021061">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1595363021061" />
+    <state x="127" y="117" key="SettingsEditor" timestamp="1595359640239">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="127" y="117" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1595359640239" />
+    <state x="1521" y="206" key="spring file set editor" timestamp="1595359713450">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1521" y="206" key="spring file set editor/0.0.2560.1040@0.0.2560.1040" timestamp="1595359713450" />
+  </component>
+</project>

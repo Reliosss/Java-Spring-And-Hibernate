@@ -10,7 +10,14 @@
     <!-- beans -->
     <bean id="myFortune" class="BadFortuneService"/>
 
-    <bean id="myCoach" class="BaseballCoach">
+    <bean id="myCoach" class="BaseballCoach" init-method="initMethod"
+          destroy-method="destroyMethod">
+        <!-- set up constructor injection-->
+        <constructor-arg ref="myFortune"/>
+    </bean>
+
+    <bean id="myCoach1" class="BaseballCoach" scope="prototype" init-method="initMethod"
+          destroy-method="destroyMethod">
         <!-- set up constructor injection-->
         <constructor-arg ref="myFortune"/>
     </bean>
