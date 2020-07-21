@@ -11,8 +11,8 @@
     <bean id="myFortune" class="BadFortuneService"/>
 
     <bean id="myCoach" class="BaseballCoach">
-        <!-- set up setter injection-->
-        <property name="fortuneService" ref="myFortune"/>
+        <!-- set up constructor injection-->
+        <constructor-arg ref="myFortune"/>
     </bean>
 
 </beans>
