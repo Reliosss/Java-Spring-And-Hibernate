@@ -7,24 +7,28 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <!-- load the properties file-->
+    <context:property-placeholder location="sport.properties" />
+
     <!-- common beans -->
-    <bean id="newCoach" class="ArmwrestlingCoach"></bean>
-    <bean id="myFortune" class="HappyFortuneService"></bean>
+    <bean id="newCoach" class="ArmwrestlingCoach"/>
+    <bean id="myFortune" class="HappyFortuneService"/>
+    <bean id="myBadFortune" class="RandomFortuneService"/>
 
     <!-- constructor injection -->
     <bean id="myCoach" class="TrackCoach">
         <!-- Setup the constructor injection-->
-        <constructor-arg  ref="myFortune"/>
+        <constructor-arg  ref="myBadFortune"/>
     </bean>
 
     <!-- setter injection -->
     <bean id="myCricketCoach" class="CricketCoach">
         <!-- set up setter injection-->
-        <property name="fortuneService" ref="myFortune" />
+        <property name="fortuneService" ref="myBadFortune" />
 
         <!-- inject literal values-->
-        <property name="emailAddress" value="thebestcoach@fat.it" />
-        <property name="team" value="Fats guys!" />
+        <property name="emailAddress" value="${foo.email}" />
+        <property name="team" value="${foo.team}" />
     </bean>
 </beans>
 
